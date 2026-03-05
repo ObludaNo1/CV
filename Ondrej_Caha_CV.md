@@ -91,3 +91,4 @@ Daily use of AI tools (ChatGPT, GitHub Copilot) for code generation, debugging, 
 
 - English — Professional proficiency
 - Czech — Native
+- Japanese - Basic (currently improving)
